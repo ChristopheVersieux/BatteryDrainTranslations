@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BatteryDrain</string>
+    <string name="abouttext">Autore: christophe.versieux@gmail.com\n\nQuesta applicazione è ancora in una fase preliminare di sviluppo. Ma penso che sia comunque pronta per essere utilizzata dagli utenti Android.\n\nSentitevi liberi di contattarmi per qualsiasi richiesta o suggerimento.</string>
+    <string name="empty_list">Per favore attendi qualche istante.\n\nQuesta applicazione si sveglia ogni volta che la batteria scende dell\'1% e ricorda i tempi nel database.\n\nNOTA: L\'analisi del consumo richiede almeno 2 punti di utilizzo per essere visualizzabile.\nMagari usa il telefono un po\' di più! :)\n\nDivertiti!!</string>
+    <string name="occurrences">Numero di occorrenze dei %s elementi:</string>
+    <string name="temporal">Ripartizione temporale:</string>
+    <string name="hoursandminutes">(%1$dh:%2$dm)</string>
+    <string name="unit">%/h</string>
+    <string name="aftercharge">Importante: I valori immediatamente dopo una ricarica non sono presi in considerazione in quanto non sono perfettamente accurati.</string>
+    <string name="result">RISULTATO FINALE: %s</string>
+    <!-- TO ADD -->
+    <string name="inaccurate">Inaccurato:</string>
+    <string name="summary">Sommario</string>
+    <string name="batterydrain">Battery Drain</string>
+    <string name="about">Informazioni</string>
+    <string name="prefs">Preferenze</string>
+    <string name="prefslist">Lunghezza della lista</string>
+    <string name="prefsitems">%s elementi</string>
+    <string name="prefswarning">Visualizza avviso\u2026</string>
+    <string name="prefscharge">Al primo elemento dopo una ricarica</string>
+    <!-- TO DO -->
+    <string name="firsttwo">I primi 2 valori non sono accurati. Per favore attendi ancora.</string>
+    <string name="remaining">(%1$dh:%2$dm rimanente)</string>
+    <string name="charging">Velocità di ricarica: </string>
+    <string name="translators">Traduzione:\nItaliano: Michele Dall\'Agata\nTurkish: Saner Apaydın - http://tryama.borkenek.com\nčeština: Ondrej Zima\nRussian: дмитрий сидякин</string>
+    <string name="range">Intervallo</string>
+    <string name="duration">Durata</string>
+    <string name="cleansetting">Cancella lista</string>
+    <string name="cleanallsetting">Azzera statistiche</string>
+    <string name="sure">Sei sicuro? Non potrai tornare indietro.</string>
+    <string name="cleansingle">Cancella questo elemento</string>
+      <string name="export">Esporta</string>
+</resources>
