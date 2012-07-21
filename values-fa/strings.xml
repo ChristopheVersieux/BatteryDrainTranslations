@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">تخلیه باتری</string>
+    <string name="abouttext">"تماس با سازنده: christophe.versieux@gmail.comاین برنامه هنوز در حال توسعه میباشد اما برای کاربران اندروید قابل استفاده است.برای پیشنهادات با من تماس بگیرید"</string>
+    <string name="empty_list">"لطفا لحظاتی صبر کنید.این برنامه هر بار ک باتری شما به مقدار 1% تخلیه شود فعال شده و زمان تخلیه را ذخیره میکندنکته:گزارش از عمل آنالیز تخلیه باتری نیازمند حداقل 2بار تخلیه شدن استلطفا کمی صبر کنید تا تا گزارش کمی دقیقتر شودشاید گوشی شما مصرف بیشتری دارد! :)"</string>
+    <string name="occurrences">تعداد تکرار برای %s مورد:</string>
+    <string name="temporal">تقسیم زمان:</string>
+    <string name="unit">%/h</string>
+    <string name="hoursandminutes">(%1$dh:%2$dm)</string>
+    <string name="aftercharge">مهم:همه موارد از بعد از شارژ انتخاب نشده اند.زیرا همه موارد دقیق نیستند.</string>
+    <string name="result">نتیجه نهایی: %s</string>
+    <string name="inaccurate">نادرست:</string>
+    <string name="summary">گزارش</string>
+    <string name="batterydrain">تخلیه باتری</string>
+    <string name="about">درباره</string>
+    <string name="prefs">تنظیمات</string>
+    <string name="prefslist">تعداد لیست</string>
+    <string name="prefsitems">%s آیتم</string>
+    <string name="prefswarning">نمایش اخطار</string>
+    <string name="prefscharge">اولین مورد بعد از شارژ</string>
+    <string name="firsttwo">2مورد اول دقیق نیست.لطفا برای نوارد بیشتر صبر کنید</string>
+    <string name="remaining">(%1$dh:%2$dm باقی مانده)</string>
+    <string name="charging">در حال شارژ: </string>
+    <string name="range">بازه</string>
+    <string name="duration">مدت زمان</string>
+    <string name="translators">"ترجمه ها:
+ترکی: Saner Apaydın - http://tryama.borkenek.com
+چک: Ondrej Zimaussian: дмитрий сидякин"
+فارسی: مهرداد رنجبر - mehrdad595@gmail.com</string>
+    <string name="cleansetting">پاک کردن لیست</string>
+    <string name="sure">آیا مطمئن هستید؟این انتخاب قابل بازیابی نیست.</string>
+    <string name="cleansingle">حذف این مورد</string>
+     <string name="cleanallsetting">Reset all stats</string>
+ <string name="export">Export</string>
+</resources>

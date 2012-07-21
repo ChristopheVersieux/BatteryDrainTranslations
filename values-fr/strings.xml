@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BatteryDrain</string>
+    <string name="abouttext">Cette application est toujours en cours de developpement et de nombreuses améliorations sont encore à prévoir.\n\nN\'hésitez pas à me contacter pour toute requête ou suggestion.</string>
+    <string name="empty_list">Veuillez attendre quelques instants.\n\nCette application se réveille chaque fois que vous perdez 1% de batterie, et stocke alors la valeur dans une base de données.\n\nNOTE: J\'ai besoin d\au moins 2 points pour commencer mon analyse. Jouez donc encore un peu avec votre téléphone avant de revenir dans mon application!  :)\n\Merci!</string>
+    <string name="occurrences">Répartition des %s éléments:</string>
+    <string name="temporal">Répartition temporelle:</string>
+    <string name="hoursandminutes">(%1$dh:%2$dm)</string>
+    <string name="unit">%/h</string>
+    <string name="aftercharge">Important: Toutes les valeurs suivant une charge ne sont pas prises en compte, comme elles sont peu précises.</string>
+    <string name="result">RESULTAT FINAL: %s</string>
+    <string name="inaccurate">Imprécis:</string>
+    <string name="summary">Résumé</string>
+    <string name="batterydrain">Décharge Batterie</string>
+    <string name="about">Contact</string>
+    <string name="prefs">Préférences</string>
+    <string name="prefslist">Taille de la liste</string>
+    <string name="prefsitems">%s éléments</string>
+    <string name="prefswarning">Afficher avertissement\u2026</string>
+    <string name="prefscharge">Au premier élément suivant une charge</string>
+    <string name="firsttwo">Les 2 premières valeurs ne sont pas précises, veuillez être patients.</string>
+    <string name="remaining">(%1$dh:%2$dm restant)</string>
+    <string name="charging">En charge: </string>
+    <string name="range">Palliers</string>
+    <string name="duration">Durée</string>
+    <string name="translators">Traductions:\nTurc: Saner Apaydın - http://tryama.borkenek.com\nTchèque: Ondrej Zima\nRusse: дмитрий сидякин</string>
+  <string name="cleansetting">Reset de la liste</string>
+    <string name="cleanallsetting">Effacer toutes les données?</string>
+    <string name="sure">Veuillez confirmer. Cette opération est irréversible!</string>
+    <string name="cleansingle">Effacer cet élément</string>
+ <string name="export">Exporter</string>
+</resources>

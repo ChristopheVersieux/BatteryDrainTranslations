@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Vybíjení baterie</string>
+    <string name="abouttext">Kontakt: christophe.versieux@gmail.com\n\nAplikace je v ranné fázi vývoje, ale myslím si, že je již připravena k použití uživateli Androidu.\n\nNeváhejte mě kontaktovat kvůli jakémukoliv rozšíření nebo s nápadem.</string>
+    <string name="empty_list">Chvíli prosím vydržte.\n\nTato aplikace pracuje vždy, když baterie ztratí 1% ze svého aktuálního nabití a uloží čas do databáze.\n\nPOZNÁMKA: Pro zobrazení výstupu analýzy je potřeba mít uložené alespoň 2 body.\nProstě trochu déle používejte své zařízení! :)\n\nUžívejte si to!</string>
+    <string name="occurrences">Počet výskytů pro %s položek:</string>
+    <string name="temporal">Časové přerozdělení:</string>
+    <string name="hoursandminutes">(%1$dh:%2$dm)</string>
+    <string name="unit">%/h</string>
+    <string name="aftercharge">Důležité: Krátce po nabití jsou ignorovány všechny hodnoty, protože nejsou přesné.</string>
+    <string name="result">KONEČNÝ VÝSLEDEK: %s</string>
+    <string name="inaccurate">nepřesné:</string>
+    <string name="summary">Souhrn</string>
+    <string name="batterydrain">Vybíjení baterie</string>
+    <string name="about">O aplikaci\u2026</string>
+    <string name="prefs">Nastavení</string>
+    <string name="prefslist">Velikost seznamu</string>
+    <string name="prefsitems">%s záznamů</string>
+    <string name="prefswarning">Zobrazit upozornění\u2026</string>
+    <string name="prefscharge">Při první položce po nabití</string>
+    <string name="firsttwo">První dva údaje jsou nepřesné, prosím počkejte na další data.</string>
+    <string name="remaining">(zbývá %1$dh:%2$dm)</string>
+    <string name="charging">nabíjení: </string>
+    <string name="range">Rozsah</string>
+    <string name="duration">Trvání</string>
+    <string name="cleansetting">Clear list</string>
+    <string name="cleanallsetting">Reset all stats</string>
+    <string name="sure">Are you sure? This cannot be undone.</string>
+    <string name="cleansingle">Delete this item</string>
+     <string name="translators">Translations:\nTurkish: Saner Apaydın - http://tryama.borkenek.com\nčeština: Ondrej Zima\Russian: дмитрий сидякин</string>
+ <string name="export">Export</string>
+</resources>

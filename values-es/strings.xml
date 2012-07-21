@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BatteryDrain</string>
+    <string name="abouttext">Esta aplicación aún está en fase inicial de desarrollo. Pero creo que está lista para ser usada y podrá ayudar los usuarios de Android. \n\nSiéntete libre de contactar conmigo para cualquier pregunta o sugerencia.</string>
+    <string name="empty_list">Por favor, espera un momento. \n\nEsta aplicación se despierta cada vez que tu batería se drena en un 1%, y entonces anota la hora en su base de datos.\n\nNOTA: El Informe del drenaje de la batería requiere al menos de 2 puntos de drenaje para ser visible. Por favor permite que este drenaje ocurra para ver el informe.\n¡Quizás utilice el móvil un poco más! :)\n\nDisfruta!</string>
+    <string name="occurrences">Número de ocurrencias para %s de elementos:</string>
+    <string name="temporal">Repartición temporal:</string>
+    <string name="hoursandminutes">(%1$dh:%2$dm)</string>
+    <string name="unit">%/h</string>
+    <string name="aftercharge">Importante:Todos los valores justo después de una carga no serán tomados en cuenta ya que no son totalmente precisos.</string>
+    <string name="result">RESULTADO FINAL: %s</string>
+    <string name="inaccurate">Impreciso:</string>
+    <string name="summary">Sumario</string>
+    <string name="batterydrain">Drenaje de Batería</string>
+    <string name="about">Sobre...</string>
+    <string name="prefs">Preferencias</string>
+    <string name="prefslist">Longitud de Lista</string>
+    <string name="prefsitems">%de elementos</string>
+    <string name="prefswarning">Mostrar Advertencia\u2026</string>
+    <string name="prefscharge">A primer elemento después de la carga</string>
+    <string name="firsttwo">Los 2 primeros valores son imprecisos, por favor espera para más datos.</string>
+    <string name="remaining">(%1$dh:%2$dm restante)</string>
+    <string name="charging">cargando: </string>
+    <string name="range">Rango</string>
+    <string name="duration">Duración</string>
+    <string name="translators">Translations ES: Daniel Domínguez  </string>
+    <string name="cleansetting">Borrar Lista</string>
+    <string name="cleanallsetting">Resetear todas las estadísticas</string>
+    <string name="sure">¿Estás seguro? Esto no se podrá deshacer.</string>
+    <string name="cleansingle">Borrar este elemento.</string>
+ <string name="export">Export</string>
+</resources>

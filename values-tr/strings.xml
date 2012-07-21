@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BatteryDrain</string>
+    <string name="abouttext">Bu uygulama henüz geliştirilme aşamasındadır. Ancak kullanıma hazır olduğunu ve Android kullanıcılarına yardımcı olacağını düşünmekteyim.\n\nİstek ve önerileriniz için benimle iletişim kurmaktan çekinmeyin.\n\nSimge tasarımı:Olivier Guiard</string>
+    <string name="empty_list">Lütfen biraz bekleyin.\n\nBu uygulama şarj seviyenizin her %1 düşüşünde faaliyete geçer ve zamanı veritabanına kaydeder.\n\nNOT: Şarj tüketim analiz raporu en az 2 birimlik şarj düşüşü sonrası görülebilir.  Raporu görmek için lütfen bu sürenin geçmesini bekleyin.\nBelki telefonunuzu biraz kullanmak istersiniz!  :)\n\nKeyfinize bakın!</string>
+    <string name="occurrences">%s kaydın gerçekleşme sıklığı:</string>
+    <string name="temporal">Süre dağılımı:</string>
+    <string name="hoursandminutes">(%1$ds:%2$dd)</string>
+    <string name="unit">%/sa</string>
+    <string name="aftercharge">Önemli: Şarjdan hemen sonraki tüm değerler tamamen doğru olmadıkları için hesaba katılmaz.</string>
+    <string name="result">NİHAİ SONUÇ: %s</string>
+    <string name="inaccurate">hatalı:</string>
+    <string name="summary">Özet</string>
+    <string name="batterydrain">Pil Tüketimi</string>
+    <string name="about">Hakkında</string>
+    <string name="prefs">Ayarlar</string>
+    <string name="prefslist">Liste uzunluğu</string>
+    <string name="prefsitems">%s kayıt</string>
+    <string name="prefswarning">Uyarı göster\u2026</string>
+    <string name="prefscharge">şarjdan sonraki ilk kayıtta</string>
+    <string name="firsttwo">İlk 2 değer hatalıdır, lütfen daha fazla veri için bekleyin.</string>
+    <string name="remaining">(%1$ds:%2$dd kaldı)</string>
+    <string name="charging">şarj ediliyor: </string>
+    <string name="range">Aralık</string>
+    <string name="duration">Süre</string>
+    <string name="cleansetting">Listeyi temizle</string>
+    <string name="cleanallsetting">Tüm kayıtları sıfırla</string>
+    <string name="sure">Emin misiniz? Bu işlem geri alınamaz.</string>
+    <string name="cleansingle">Bu öğeyi sil</string>
+    <string name="translators">Translations:\nTurkish: Saner Apaydın - http://tryama.borkenek.com\nčeština: Ondrej Zima\Russian: дмитрий сидякин</string>
+    <string name="export">Export</string>
+
+</resources>

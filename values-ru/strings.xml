@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BatteryDrain</string>
+    <string name="abouttext"> Это приложение находится в стадии ранней разработки. Но я надеюсь, что уже сейчас оно может быть полезным пользователям Android.\n\n По любым вопросам Вы можете связаться со мной.</string>
+    <string name="empty_list">Подождите немного.\n\nДанная программа активизируется и производит запись в базу значений каждый раз, когда Ваш аккумулятор теряет 1\%% своего заряда .\n\nЗаметка:Начало ведения отчета требует минимум 2% потери заряда  . Позвольте телефону немного разрядиться, чтобы увидеть отчет .\nВ общем, используйте аппарат в обычном режиме ! :)\n\nЭто для Вас!</string>
+    <string name="occurrences">Количество записей для %s значений:</string>
+    <string name="temporal">Для примера:</string>
+    <string name="unit">%/h</string>
+    <string name="hoursandminutes">(%1$dч:%2$dм)</string>
+    <string name="значение">%/ч</string>
+    <string name="aftercharge">Важно:Все значения, которые берутся сразу после зарядки, не записываются в отчет, т.к. они не являются точными.</string>
+    <string name="result">ОБЩИЙ РЕЗУЛЬТАТ: %s</string>
+    <string name="inaccurate">неточность:</string>
+    <string name="summary">Суммарно</string>
+    <string name="batterydrain">Расход заряда</string>
+    <string name="about">О программе</string>
+    <string name="prefs">Опции</string>
+    <string name="prefslist">Длина списка</string>
+    <string name="prefsitems">%s значения</string>
+    <string name="prefswarning">Предупреждать\u2026</string>
+    <string name="prefscharge">Первое значение после зарядки</string>
+    <string name="firsttwo">2 первых значения неточны, немного подождите для более подробной информации.</string>
+    <string name="remaining">(%1$dч:%2$dм прошло)</string>
+    <string name="charging">зарядка: </string>
+    <string name="range">Интервал</string>
+    <string name="duration">Время</string>
+    <string name="translators">Перевод:\nTurkish: Saner Apaydın - http://tryama.borkenek.com\nčeština: Ondrej Zima\nRussian: Дмитрий Сидякин</string>
+    <string name="cleansetting">Clear list</string>
+    <string name="cleanallsetting">Reset all stats</string>
+    <string name="sure">Are you sure? This cannot be undone.</string>
+    <string name="cleansingle">Delete this item</string>
+     <string name="export">Export</string>
+</resources>

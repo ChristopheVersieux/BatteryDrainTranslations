@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BatteryDrain</string>
+    <string name="abouttext">Contact: christophe.versieux@gmail.com\n\nThis app is still in early development phase. But I think that it is now ready to be used and help Android users.\n\nFeel free to contact me for any request or suggestion.</string>
+    <string name="empty_list">Please wait a few moments.\n\nThis applications wakes up each time your battery drops 1%, and then records the time in the database.\n\nNOTE: The battery-drain analysis report requires at least a 2-point drop to be viewable.  Please allow for this point-drop to occur to view the report.\nPerhaps use the phone a little more!  :)\n\nEnjoy!</string>
+    <string name="occurrences">Number of occurrences for %s items:</string>
+    <string name="temporal">Temporal repartition:</string>
+    <string name="hoursandminutes">(%1$dh:%2$dm)</string>
+    <string name="unit">%/h</string>
+    <string name="aftercharge">Important: All values just after a charge are not taken in account as they are not totally accurate.</string>
+    <string name="result">FINAL RESULT: %s</string>
+    <!-- TO ADD -->
+    <string name="inaccurate">Inaccurate:</string>
+    <string name="summary">Summary</string>
+    <string name="batterydrain">Battery Drain</string>
+    <string name="about">About</string>
+    <string name="prefs">Preferences</string>
+    <string name="prefslist">List length</string>
+    <string name="prefsitems">%s items</string>
+    <string name="prefswarning">Display warning\u2026</string>
+    <string name="prefscharge">At first item after a charge</string>
+    <!-- TO DO -->
+    <string name="firsttwo">2 first value are inaccurate, please wait for more data.</string>
+    <string name="remaining">(%1$dh:%2$dm left)</string>
+    <string name="charging">charging: </string>
+    <string name="translators">Translations:\nTurkish: Saner Apaydın - http://tryama.borkenek.com\nčeština: Ondrej Zima\Russian: дмитрий сидякин</string>
+    <string name="range">Range</string>
+    <string name="duration">Duration</string>
+    <string name="cleansetting">Clear list</string>
+    <string name="cleanallsetting">Reset all stats</string>
+    <string name="sure">Are you sure? This cannot be undone.</string>
+    <string name="cleansingle">Delete this item</string>
+      <string name="export">Export</string>
+</resources>
