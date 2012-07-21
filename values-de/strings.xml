@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BatteryDrain</string>
+    <string name="abouttext">Kontakt: christophe.versieux@gmail.com\n\nDiese Anwendung befindet sich noch eine einem frühen Entwicklungsstadium. Ich denke jedoch dass sie fertig genug ist um genutzt zu werden und Nutzern zu helfen.\n\nMelde dich jederzeit bei Anfragen oder Vorschlägen.</string>
+    <string name="empty_list">Bitte einen Moment warten.\n\nDiese Anwendung registriert jeden Abfall des Akkustandes von 1%, und sichert die Zeit in einer Datenbank.\n\nHINWEIS: Die Akkuverbrauchs-Analyse benötigt mindestens einen Abfall von 2% um sichtbar zu sein. Bitte warte bis dies eintritt um den Bericht zu sehen.\nBenutze das Gerät vielleicht ein bisschen mehr! :)\n\nEnjoy!</string>
+    <string name="occurrences">Häufigkeit des Auftretens von %s Einträgen:</string>
+    <string name="temporal">Zeitliche Aufteilung:</string>
+    <string name="hoursandminutes">(%1$dh:%2$dm)</string>
+    <string name="unit">%/h</string>
+    <string name="aftercharge">Wichtig: Werte direkt nach dem Laden werden nicht berücksichtigt, weil sie nicht genau genug sind.</string>
+    <string name="result">Ergebnis: %s</string>
+    <!-- TO ADD -->
+    <string name="inaccurate">Ungenau:</string>
+    <string name="summary">Zusammenfassung</string>
+    <string name="batterydrain">Akkuverbrauch</string>
+    <string name="about">Über</string>
+    <string name="prefs">Einstellungen</string>
+    <string name="prefslist">Listen-Länge</string>
+    <string name="prefsitems">%s Einträge</string>
+    <string name="prefswarning">Zeige Warnung\u2026</string>
+    <string name="prefscharge">bei erstem Eintrag nach dem Laden</string>
+    <!-- TO DO -->
+    <string name="firsttwo">Die zwei ersten Werte sind ungenau, bitte warte auf mehr Daten.</string>
+    <string name="remaining">(%1$dh:%2$dm verbleibend)</string>
+    <string name="charging">Laden: </string>
+    <string name="translators">Übersetzungen:\nTürkisch: Saner Apaydın - http://tryama.borkenek.com\nTschechisch: Ondrej Zima\nRussisch: дмитрий сидякин</string>
+    <string name="range">Bereich</string>
+    <string name="duration">Dauer</string>
+    <string name="cleansetting">Liste leeren</string>
+    <string name="cleanallsetting">Alle Statistiken zurücksetzen</string>
+    <string name="sure">Sind Sie sicher? Dies kann nicht rückgängig gemacht werden.</string>
+    <string name="cleansingle">Lösche dieses Element</string>
+      <string name="export">Exportieren</string>
+</resources>
