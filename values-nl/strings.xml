@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BatteryDrain</string>
+    <string name="abouttext">Contact: christophe.versieux@gmail.com\n\nDeze app is nog in een vroege ontwikkelingsfase. Maar ik denk dat ze nu klaar is om gebruikt te worden en Android gebruikers te helpen.\n\nNeem gerust contact op voor om het even welk verzoek of suggestie.</string>
+    <string name="empty_list">Gelieve enkele ogenblikken te wachten.\n\nDeze applicatie wordt telkens wakker als je batterij 1% vermindert en registreert de overeenkomstige tijd in de databank.\n\nOPGELET: De analyse van het batterijverbruik heeft minstens 2 datapunten nodig om zichtbaar te worden. Gelieve te wachten tot deze voorwaarde voldaan is alvorens het rapport te bekijken.\nMisschien kan je de telefoon wat meer gebruiken! :)\n\nEnjoy!</string>
+    <string name="occurrences">Aantal voorkomens voor %s items:</string>
+    <string name="temporal">Temporele verdeling:</string>
+    <string name="hoursandminutes">(%1$dh:%2$dm)</string>
+    <string name="unit">%/u</string>
+    <string name="aftercharge">Belangrijk: de waarden vlak na een oplading worden niet in rekening gebracht omdat ze niet volledig accuraat zijn.</string>
+    <string name="result">FINAAL RESULTAAT: %s</string>
+    <!-- TO ADD -->
+    <string name="inaccurate">Niet accuraat:</string>
+    <string name="summary">Samenvatting</string>
+    <string name="batterydrain">Batterijverbruik</string>
+    <string name="about">Over</string>
+    <string name="prefs">Voorkeuren</string>
+    <string name="prefslist">Lengte van de lijst</string>
+    <string name="prefsitems">%s items</string>
+    <string name="prefswarning">Toon waarschuwing\u2026</string>
+    <string name="prefscharge">Bij het eerste item na een oplading</string>
+    <!-- TO DO -->
+    <string name="firsttwo">De eerste twee waarden zijn niet accuraat, gelieve te wachten op meer gegevens.</string>
+    <string name="remaining">(%1$dh:%2$dm over)</string>
+    <string name="charging">Aan het opladen: </string>
+    <string name="translators">Vertalingen:\nItaliaans: Michele Dall\'Agata\nTurks: Saner Apaydın - http://tryama.borkenek.com\nTsjechisch: Ondrej Zima\nRussisch: дмитрий сидякин\nSpaans: Daniel Domínguez\nPersisch: مهرداد رنجبر - mehrdad595@gmail.com\nNederlands: Wouter Horré</string>
+    <string name="range">Bereik</string>
+    <string name="duration">Duur</string>
+    <string name="cleansetting">Lijst leeg maken</string>
+    <string name="cleanallsetting">Reset alle statistieken</string>
+    <string name="sure">Ben je zeker? Dit kan niet ongedaan gemaakt worden.</string>
+    <string name="cleansingle">Verwijder dit item</string>
+    <string name="export">Exporteer</string>
+</resources>
