@@ -28,6 +28,6 @@
     <string name="cleanallsetting">Reset all stats</string>
     <string name="sure">Are you sure? This cannot be undone.</string>
     <string name="cleansingle">Delete this item</string>
-     <string name="translators">Translations:\nTurkish: Saner Apaydın - http://tryama.borkenek.com\nčeština: Ondrej Zima\Russian: дмитрий сидякин</string>
+     <string name="translators">Translations:\nTurkish: Saner Apaydın - http://tryama.borkenek.com\nčeština: Ondrej Zima\nRussian: дмитрий сидякин</string>
  <string name="export">Export</string>
 </resources>
