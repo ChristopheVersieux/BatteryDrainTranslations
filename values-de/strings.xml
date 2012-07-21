@@ -3,7 +3,7 @@
 
     <string name="app_name">BatteryDrain</string>
     <string name="abouttext">Kontakt: christophe.versieux@gmail.com\n\nDiese Anwendung befindet sich noch eine einem frühen Entwicklungsstadium. Ich denke jedoch dass sie fertig genug ist um genutzt zu werden und Nutzern zu helfen.\n\nMelde dich jederzeit bei Anfragen oder Vorschlägen.</string>
-    <string name="empty_list">Bitte einen Moment warten.\n\nDiese Anwendung registriert jeden Abfall des Akkustandes von 1%, und sichert die Zeit in einer Datenbank.\n\nHINWEIS: Die Akkuverbrauchs-Analyse benötigt mindestens einen Abfall von 2% um sichtbar zu sein. Bitte warte bis dies eintritt um den Bericht zu sehen.\nBenutze das Gerät vielleicht ein bisschen mehr! :)\n\nEnjoy!</string>
+    <string name="empty_list">Bitte einen Moment warten.\n\nDiese Anwendung registriert jeden Abfall des Akkustandes von 1%, und sichert die Zeit in einer Datenbank.\n\nHINWEIS: Die Akkuverbrauchs-Analyse benötigt mindestens einen Abfall von 2 prozent um sichtbar zu sein. Bitte warte bis dies eintritt um den Bericht zu sehen.\nBenutze das Gerät vielleicht ein bisschen mehr! :)\n\nEnjoy!</string>
     <string name="occurrences">Häufigkeit des Auftretens von %s Einträgen:</string>
     <string name="temporal">Zeitliche Aufteilung:</string>
     <string name="hoursandminutes">(%1$dh:%2$dm)</string>
