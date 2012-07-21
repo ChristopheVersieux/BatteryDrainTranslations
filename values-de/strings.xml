@@ -24,7 +24,7 @@
     <string name="firsttwo">Die zwei ersten Werte sind ungenau, bitte warte auf mehr Daten.</string>
     <string name="remaining">(%1$dh:%2$dm verbleibend)</string>
     <string name="charging">Laden: </string>
-    <string name="translators">Übersetzungen:\nTürkisch: Saner Apaydın - http://tryama.borkenek.com\nTschechisch: Ondrej Zima\nRussisch: дмитрий сидякин</string>
+    <string name="translators">Übersetzungen:\nTürkisch: Saner Apaydın - http://tryama.borkenek.com\nTschechisch: Ondrej Zima\nRussisch: дмитрий сидякин\nSpanisch: Daniel Domínguez\nPersisch: مهرداد رنجبر - mehrdad595@gmail.com</string>
     <string name="range">Bereich</string>
     <string name="duration">Dauer</string>
     <string name="cleansetting">Liste leeren</string>
