@@ -16,7 +16,7 @@
     <string name="about">Sobre...</string>
     <string name="prefs">Preferencias</string>
     <string name="prefslist">Longitud de Lista</string>
-    <string name="prefsitems">%de elementos</string>
+    <string name="prefsitems">%s elementos</string>
     <string name="prefswarning">Mostrar Advertencia\u2026</string>
     <string name="prefscharge">A primer elemento después de la carga</string>
     <string name="firsttwo">Los 2 primeros valores son imprecisos, por favor espera para más datos.</string>
