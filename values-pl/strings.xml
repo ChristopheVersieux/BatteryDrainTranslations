@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BatteryDrain</string>
+    <string name="abouttext">Kontakt: christophe.versieux@gmail.com\n\nAplikacja znajduje się we wczesnej fazie rozwoju. Mimo to uważam, że jest gotowa do użycia i powinna być pomocna dla użytkowników systemu Android.\n\nSkontaktuj się ze mną jeśli znalazłeś błąd lub masz jakąś sugestię.</string>
+    <string name="empty_list">Please wait a few moments.\n\nThis applications wakes up each time your battery drops 1%, and then records the time in the database.\n\nNOTE: The battery-drain analysis report requires at least a 2-point drop to be viewable.  Please allow for this point-drop to occur to view the report.\nPerhaps use the phone a little more!  :)\n\nEnjoy!</string>
+    <string name="occurrences">Number of occurrences for %s items:</string>
+    <string name="temporal">Temporal repartition:</string>
+    <string name="hoursandminutes">(%1$dh:%2$dm)</string>
+    <string name="unit">%/h</string>
+    <string name="aftercharge">Important: All values just after a charge are not taken in account as they are not totally accurate.</string>
+    <string name="result">OSTATECZNY WYNIK: %s</string>
+    <!-- TO ADD -->
+    <string name="inaccurate">Niedokładny:</string>
+    <string name="summary">Podsumowanie</string>
+    <string name="batterydrain">Battery Drain</string>
+    <string name="about">O aplikacji</string>
+    <string name="prefs">Ustawienia</string>
+    <string name="prefslist">Długość listy</string>
+    <string name="prefsitems">%s elementów</string>
+    <string name="prefswarning">Wyświetl ostrzeżenie\u2026</string>
+    <string name="prefscharge">At first item after a charge</string>
+    <!-- TO DO -->
+    <string name="firsttwo">2 first value are inaccurate, please wait for more data.</string>
+    <string name="remaining">(pozostało %1$dh:%2$dm)</string>
+    <string name="charging">ładowanie: </string>
+    <string name="translators">Tłumaczenia:\nwłoski: Michele Dall\'Agata\nturecki: Saner Apaydın - http://tryama.borkenek.com\nczeski: Ondrej Zima\nrosyjski: дмитрий сидякин\nSpanish: Daniel Domínguez\nperski: مهرداد رنجبر - mehrdad595@gmail.com\nholenderski: Wouter Horré</string>
+    <string name="range">Zakres</string>
+    <string name="duration">Czas trwania</string>
+    <string name="cleansetting">Wyczyść listę</string>
+    <string name="cleanallsetting">Zresetuj wszystkie statystyki</string>
+    <string name="sure">Czy jesteś pewien? Operacji tej nie można cofnąć.</string>
+    <string name="cleansingle">Usuń ten element</string>
+    <string name="export">Eksport</string>
+</resources>
