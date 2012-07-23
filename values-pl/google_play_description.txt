@@ -1,0 +1,9 @@
+(Za każdym razem gdy ktoś prosi o indywidualne listingi zużycia baterii dla aplikacji... Bóg zabija kociaka.
+Więc, proszę, nie proś.
+Ta funkcjonalność jest niemożliwa do zrealizowania bez ciągłęgo monitorowania, a tym samym błyskawicznego zużywania baterii.)
+Slędząc użycie baterii na swoim telefonie, zawsze mi czegoś brakowało...
+Tą informacją było zużycie baterii w procentach na godzinę.
+Dlatego też zrobiłem tę aplikację na własny użytek, a teraz nadszedł czas aby się nią podzielić.
+Ta aplikacja jest w ciągłym uśpieniu, aż do momentu zużycia jednego procenta baterii, co powoduje zapisanie stanu baterii i czasu. Przy kolejnej utracie naładowania, aplikacja wylicza zużycie.
+W planach na kolejne tygodnie/miesiące mam prace nad interfejsem użytkownika i ogólne poprawki - skontaktuj się ze mną jeśli masz pomysły/sugestie.
+Miej na uwadze, że aplikacja ta powinna pozostać prosta i minimalistyczna.
