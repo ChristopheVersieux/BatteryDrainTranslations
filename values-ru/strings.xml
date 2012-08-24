@@ -25,7 +25,7 @@
     <string name="charging">зарядка: </string>
     <string name="range">Интервал</string>
     <string name="duration">Время</string>
-    <string name="translators">Перевод:\nTurkish: Saner Apaydın - http://tryama.borkenek.com\nčeština: Ondrej Zima\nRussian: Дмитрий Сидякин, Сергей Шатунов</string>
+    <string name="translators">Перевод:\nRussian: Дмитрий Сидякин, Сергей Шатунов</string>
     <string name="cleansetting">Очистить список</string>
     <string name="cleanallsetting">Сбросить все</string>
     <string name="sure">Вы серьезно? Это нельзя отменить.</string>
