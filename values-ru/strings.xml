@@ -25,10 +25,10 @@
     <string name="charging">зарядка: </string>
     <string name="range">Интервал</string>
     <string name="duration">Время</string>
-    <string name="translators">Перевод:\nTurkish: Saner Apaydın - http://tryama.borkenek.com\nčeština: Ondrej Zima\nRussian: Дмитрий Сидякин</string>
-    <string name="cleansetting">Clear list</string>
-    <string name="cleanallsetting">Reset all stats</string>
-    <string name="sure">Are you sure? This cannot be undone.</string>
-    <string name="cleansingle">Delete this item</string>
-     <string name="export">Export</string>
+    <string name="translators">Перевод:\nRussian: Дмитрий Сидякин, Сергей Шатунов</string>
+    <string name="cleansetting">Очистить список</string>
+    <string name="cleanallsetting">Сбросить все</string>
+    <string name="sure">Вы серьезно? Это нельзя отменить.</string>
+    <string name="cleansingle">Удалить</string>
+     <string name="export">Экспорт</string>
 </resources>
